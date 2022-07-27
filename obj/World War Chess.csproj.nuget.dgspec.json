@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\World War Chess\\World War Chess.csproj": {}
+    "D:\\Summer coding projects\\World-War-Chess\\World War Chess.csproj": {}
   },
   "projects": {
-    "D:\\C#\\World War Chess\\World War Chess.csproj": {
+    "D:\\Summer coding projects\\World-War-Chess\\World War Chess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\World War Chess\\World War Chess.csproj",
+        "projectUniqueName": "D:\\Summer coding projects\\World-War-Chess\\World War Chess.csproj",
         "projectName": "World War Chess",
-        "projectPath": "D:\\C#\\World War Chess\\World War Chess.csproj",
+        "projectPath": "D:\\Summer coding projects\\World-War-Chess\\World War Chess.csproj",
         "packagesPath": "C:\\Users\\allen\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\World War Chess\\obj\\",
+        "outputPath": "D:\\Summer coding projects\\World-War-Chess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allen\\AppData\\Roaming\\NuGet\\NuGet.Config",
