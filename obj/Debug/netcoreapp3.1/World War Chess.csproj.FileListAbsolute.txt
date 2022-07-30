@@ -1,0 +1,13 @@
+D:\Summer coding projects\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.exe
+D:\Summer coding projects\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.deps.json
+D:\Summer coding projects\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.runtimeconfig.json
+D:\Summer coding projects\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.runtimeconfig.dev.json
+D:\Summer coding projects\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.dll
+D:\Summer coding projects\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.pdb
+D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.csprojAssemblyReference.cache
+D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.csproj.CoreCompileInputs.cache
+D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.AssemblyInfoInputs.cache
+D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.AssemblyInfo.cs
+D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.dll
+D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.pdb
+D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.genruntimeconfig.cache
