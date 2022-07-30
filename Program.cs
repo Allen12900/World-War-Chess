@@ -9,8 +9,6 @@ namespace World_War_Chess
             Console.WriteLine("Welcome to world war chess");
             var b = new Board(10);
             PlayGame(b);
-
-
         }
 
 
