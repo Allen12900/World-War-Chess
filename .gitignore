@@ -108,16 +108,16 @@ StyleCopReport.xml
 /modules.xml
 /contentModel.xml
 /projectSettingsUpdater.xml
-/.idea.World-War-Chess.iml
+/.idea.World War Chess.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-../../../World-War-Chess
+../../../World War Chess
 
 # Idea + VS folders
 /.vs
 /.idea
-/World-War-Chess/bin
-/World-War-Chess/obj
+/World War Chess/bin
+/World War Chess/obj
