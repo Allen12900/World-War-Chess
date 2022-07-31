@@ -11,3 +11,17 @@ D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Ches
 D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.dll
 D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.pdb
 D:\Summer coding projects\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.genruntimeconfig.cache
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.exe
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.deps.json
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.runtimeconfig.json
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.runtimeconfig.dev.json
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.dll
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\bin\Debug\netcoreapp3.1\World War Chess.pdb
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.csproj.AssemblyReference.cache
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.AssemblyInfoInputs.cache
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.AssemblyInfo.cs
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.csproj.CoreCompileInputs.cache
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.dll
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.pdb
+C:\Users\afron\OneDrive\Documents\GitHub\World-War-Chess\obj\Debug\netcoreapp3.1\World War Chess.genruntimeconfig.cache
