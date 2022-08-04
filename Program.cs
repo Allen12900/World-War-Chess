@@ -6,7 +6,6 @@ namespace World_War_Chess
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to world war chess");
             var b = new Board(10);
             PlayGame(b);
         }
